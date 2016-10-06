@@ -47,7 +47,7 @@ function lr($lrsrt){
 		#img{	
 			position: relative;
 			left: 25%;
-			height: 25%;
+			height: 30%;
 
 				
 
@@ -147,7 +147,7 @@ input:focus ~ .bar:before, input:focus ~ .bar:after {
 </head>
 <body>
 
-<img src = "img/geu.gif" alt = "geu gif" id = "img">
+<img src = "geu.gif" alt = "geu gif" id = "img">
 
 <?php echo $error;?>
 <div id = "login" >

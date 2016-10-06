@@ -16,7 +16,7 @@ if($_SESSION["loggedIn"] == 0)
 <script src="BootStrap/js/bootstrap.min.js"></script>
 
   
-<script type="text/javascript" src="images/webcam.js"></script>
+<script type="text/javascript" src="webcam/webmaster/webcam.js"></script>
 
  <style>
  html {
