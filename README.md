@@ -144,7 +144,7 @@ The project uses MySQLi as of now, to integrate the connections use the followin
 </table>
 
 
-Project Development<b>FINISHED SUCCESSFULLY</b>
+Project Development <b>FINISHED SUCCESSFULLY</b>
 
 <b>Thank you so much jhuckaby/ for the webcam plugin!</b>
 
