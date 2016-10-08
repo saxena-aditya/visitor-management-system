@@ -1,20 +1,8 @@
-# gitHubResp
+# PHP based-Visitor Management System
 
-<h4>first official project ever !</h4>
+<p>VMS or Visitor Management System is an utility for the 'gate' guards who have to maintain a bulky and a very-hard-to-maintain record books for all the visitors that visit the college for their various reasons.</p>
 
-VMS or Visitor Management System is an utility for the 'gate' guards who have to maintain a bulky and a very-hard-to-maintain
-record book for all the visitors that visit the college for their various reasons.
-
-VMS till now contains the following features;
-<ul>
- <li>Guard login page; case sensitive pass and userName fields.(SESSION powered :D)</li>
- <li>a profile page(raw as of now); sigin, logout or view data links here.</li>
- <li>added functionality for 'View all entries', 'View Active visitors', 'Date wise Visitor Info' and more to come.</li>
- <li>Photo capture System </li>
- <li>printing the visitor badge</li>
- <li>a brand new and attractive layout</li>
- </ul>
- 
+<p>VMS has 4 sub- sections, Front Page (Home), Add Visitor (for adding new visitors), View Data (for getting the visitor details - all fields) and a Logged out Visitor page that shows Logged out visito data for the present day!</p>  
 
 <h3>DataBase Connects :</h3>
 
@@ -109,9 +97,24 @@ The project uses MySQLi as of now, to integrate the connections use the followin
   <td>imagePath</td>
   <td>varchar(100)</td>
   <td></td>
+  
   </tr>
-   
-  </table>
+  <tr>
+  <td>StudentName</td>
+  <td>varchar(40)</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td>couseYear</td>
+  <td>int(1)</td>
+  <td></td>
+  </tr> 
+  <tr>
+  <td>Hostel</td>
+  <td>varchar(80)</td>
+  <td></td>
+  </tr> 
+    </table>
   
   
  
@@ -141,8 +144,8 @@ The project uses MySQLi as of now, to integrate the connections use the followin
 </table>
 
 
-Project Development <b style = "color:green">FINISHED SUCCESSFULLY</b>
+Project Development<b>FINISHED SUCCESSFULLY</b>
 
-<b>Thank you so much jhuckaby/</b>
+<b>Thank you so much jhuckaby/ for the webcam plugin!</b>
 
 BY ~ Aditya Saxena
