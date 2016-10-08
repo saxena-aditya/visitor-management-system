@@ -2,7 +2,7 @@
 
 <p>VMS or Visitor Management System is an utility for the 'gate' guards who have to maintain a bulky and a very-hard-to-maintain record books for all the visitors that visit the college for their various reasons.</p>
 
-<p>VMS has 4 sub- sections, Front Page (Home), Add Visitor (for adding new visitors), View Data (for getting the visitor details - all fields) and a Logged out Visitor page that shows Logged out visito data for the present day!</p>  
+<p>VMS has 4 sub- sections, Front Page (Home), Add Visitor (for adding new visitors), View Data (for getting the visitor details - all fields) and a Logged out Visitor page that shows Logged out visitor data for the present day!</p>  
 
 <h3>DataBase Connects :</h3>
 
