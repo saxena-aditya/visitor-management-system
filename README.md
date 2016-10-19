@@ -79,6 +79,12 @@ The project uses MySQLi as of now, to integrate the connections use the followin
   <td></td>
   </tr>
    <tr>
+  <td>Comment</td>
+  <td>varchar(100)</td>
+  <td></td>
+  </tr>
+  
+  <tr>
   <td>TimeOUT</td>
   <td>time</td>
   <td></td>
@@ -105,7 +111,7 @@ The project uses MySQLi as of now, to integrate the connections use the followin
   <td></td>
   </tr>
   <tr>
-  <td>couseYear</td>
+  <td>courseYear</td>
   <td>int(1)</td>
   <td></td>
   </tr> 
